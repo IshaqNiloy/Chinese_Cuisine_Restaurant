@@ -48,7 +48,9 @@ footer {
 	float:left;
 }
 .para_3{
-	margin-left:850px;
+	float:left;
+	margin-left:818px;
+	margin-top: -60px;
 	padding-top:5px;
 }
 footer img{
